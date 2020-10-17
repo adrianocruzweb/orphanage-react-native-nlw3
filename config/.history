@@ -1,0 +1,238 @@
+cd
+npm live0server
+clear
+npm live-server
+npm install live-server
+npm install yarn
+npm yarn -v
+npm uninstall yarn
+npm install -g yarn
+live-server -v
+npm uninstall live-server
+mongo -v
+mongodb -v
+C:\Program Files\MongoDB\Server\4.4\bin\mongo.exe -v
+C:\Program Files\MongoDB\Server\4.4\bin\mongo.exe --version
+"C:\Program Files\MongoDB\Server\4.4\bin\mongo.exe" --version
+mongo.exe --version
+mongo --version
+mongod --dbpath="C:\Users\sarah maria cabriott\Desktop\BootCamp\bootcamp\data"
+mongo -host localhost:27017
+cd C:\Users\sarah maria cabriott\Desktop\BootCamp\aula-mongoose
+npm install -g nodemon
+ndemon index.js
+npm instal mongoose
+npm install mongoose
+nodemon index.js
+cd C:\Users\sarah maria cabriott\Desktop\BootCamp\aula-crud-mongoose
+echo "# crud-mongoose-api-basic" >> README.md
+touch .gitignore && echo "node_modules/" >> .gitignore && git rm -r --cached node_modules ; git status
+git status
+git config --global user.email "adrianocruzweb@gmail.com"
+git config --global user.name "adrianocruzweb"
+git config
+git config --get-all
+git config --get 
+git config --get user.email
+git config --get user.name
+git remote
+git --hrlp
+git commit -m "my fist commmit"
+EXIT
+git config user-name
+git config user.name
+git config user.email
+nodemon api.js
+git commit -m "primeiro commit 01"
+git remote add origin https://github.com/adrianocruzweb/crud-mongoose-api-basic.git
+git --help
+git config --help
+git pull *
+git fetch origin
+git merge origin teste
+git pull origin teste
+git push --help
+git push -u --force origin master
+yarn add dotenv
+npm install dotenv
+npm fund
+git add
+git commit -m "encapsula variáveis de ambiente"
+gitk
+git push -u origin master
+git  fetch origin
+git branch
+git checkout Melhoria-XPTO
+git checkout master
+exit 
+cd C:\Users\sarah maria cabriott\Desktop\BootCamp\crud-mongoose-api-basic
+heroku login
+heroku create
+heroku apps:rename crud-mongoose-api-basic
+git push heroku master 
+git rm package-lock.json git commit -m "Remove npm lock file" git push heroku master
+git rm package-lock.json
+git commit -m "Remove npm lock file"
+`mongodb+srv://${process.env.USERDB}:${process.env.PWDDB}@assinaturaeletronica.coda1.mongodb.net/grades?retryWrites=true&w=majority`,
+npm app.js
+node --experimental-modules app.js
+HEROKU --HELP
+heroku --help
+heroku run
+heroku restart
+git commit -m "package start incluido"
+git push heroku master
+git commit -m "incluido a rota put"
+git push origin master
+heroku logs --tail
+npm run dev
+cd C:\Users\sarah maria cabriott\Desktop\nlw-prog-isabela\nlw
+npm src/pages.js
+node src/pages.js
+live-sever src/pages.js
+npm install -g live-server
+live-server src/pages.js
+cd C:\Users\sarah maria cabriott\Desktop\BootCamp\desafio-guiado-09
+git clone https://github.com/brunoaugustoteixeira/grades-app.git
+cd grades-app\
+git clone https://github.com/brunoaugustoteixeira/grades-api.git
+cd grades-api
+git fetch
+git fetch -v --progress "origin"
+git merge feature/CriaRotas
+git merge origin/feature/CriaRotas
+git checkout -b feature/modeloMongoose
+nodemon app.js
+help
+rerify
+echo 'aqui'
+vscode
+vc
+vcod
+vcd
+vsc
+vcode
+code
+cd C:\Users\sarah maria cabriott\Desktop\BootCamp\desafio-guiado-09\grades-api
+node app.js
+node -r dotenv/config --experimentsl-modules app.js
+git pull
+git pull origin feature/modeloMongoose
+node -r dotenv/config --experimental-modules app.js
+cd C:\Users\sarah maria cabriott\Desktop\site-dois\parallax-template\parallax-template
+live-server 
+cd c:\Windows\System32\
+powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
+cd C:\Users\sarah maria cabriott\Desktop\site-dois\parallax-template\site-studio
+cd C:\Users\sarah maria cabriott\Desktop\site\index.html
+cd C:\Users\sarah maria cabriott\Desktop\site\
+npm init
+npm install gulp-cli -g
+npm install
+npm install gulp -D
+npx -p touch nodetouch gulpfile.js
+gulp
+npx
+live-server
+cd C:\Users\sarah maria cabriott\Desktop\nlw-03\aula
+npm intall yarn -g
+npx create-react-appweb --template typescript
+npx create-react-app web --template typescript
+cd "Users\sarah maria cabriott\
+cd C:\NLW-03\aula
+node -v
+npm
+yarn -version
+cd c:
+npm install yarn -g
+yarn -v
+yarn --version
+cd Users\
+net user Administrador /active:yes
+rd /s "sarah maria cabriott\
+cd c:\
+ls
+yarn create react-app web --template typescript
+yarn add react-icons
+cd C:\Users\Administrador.DESKTOP-M5BCQ6H\Desktop\nlw-03\aula\web\src\App.tsx
+yarn add react-router-dom
+yarn add @types/react-router-dom
+yarn add leaflet react-leaflet
+yarn add @types/react-leaflet
+git push
+git commit 
+git config --global user.email "adrianocruzweb@hotmail.com"
+git config --global user.name "Adriano Cruz"
+git commit -m "Primeiro dia de NLW3 e fizemos um belo trabalho."
+mkdir backend
+yarn init -y
+yarn add express
+yarn add @types/express
+yarn typescript -D
+yarn add typescript -D
+yarn tsc --init
+yarn ts-node-dev -D
+yarn add ts-node-dev -D
+cd C:\Users\Administrador.DESKTOP-M5BCQ6H\Desktop\nlw-03\aula\backend\src\server.ts
+yarn add typeorm sqlite3
+yarn typeorm
+yarn typeorm migration:create -n create_orphanages
+yarn typeorm migration:reveer
+yarn typeorm migration:revert
+yarn typeorm migration:create -n create_images
+yarn typeorm migration:run
+yarn add multer
+yarn add @types/multer
+yarn add express-async-errors
+yarn add yup
+yarn add @types/yup
+yarn add cors
+yarn add @types/cors
+echo "# api-happy-nlw3" >> README.md
+git commit -m "first commit api restfull happy"
+git remote add origin https://github.com/adrianocruzweb/api-happy-nlw3.git
+add *
+git remote add origin https://github.com/adrianocruzweb/happy-web-nlw3.git
+git commit -m "second commit api restfull happy"
+Dism /Online /Cleanup-Image /ScanHealth
+Dism /Online /Cleanup-Image /RestoreHealth
+cd web
+cd C:\Users\Administrador.DESKTOP-M5BCQ6H\Desktop\nlw-03\aula\backend
+yarn
+cd C:\Users\Administrador.DESKTOP-M5BCQ6H\Desktop\nlw-03\aula\web
+cd C:\Users\Administrador.DESKTOP-M5BCQ6H\Desktop\nlw-03\aula\backend\
+git commit -m "Concluida com 2 correçoes pendentes"
+yarn global add expo-cli
+expo -v
+expo --version
+cd C:\Users\Administrador.DESKTOP-M5BCQ6H\Desktop\nlw-03\aula
+expo init mobile
+cd mobile\
+code .
+cd users
+cd Administrador.DESKTOP-M5BCQ6H\
+cd Desktop\nlw-03\aula\mobile\
+expo install react-native-maps
+yarn add @react-navigation/native
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+yarn add @react-navigation/stack
+cd C:\Users\Administrador.DESKTOP-M5BCQ6H\Desktop\nlw-03\aula\mobile\src\pages\OrphanagesMap.tsx
+cd C:\Users\Administrador.DESKTOP-M5BCQ6H\Desktop\nlw-03\aula\mobile\src
+expo install @expo-google-fonts/nunito expo-font
+yarn start
+cd..
+cd backend\
+yarn dev:server
+yarn dev
+cd C:\Users\Administrador.DESKTOP-M5BCQ6H\Desktop\nlw-03\aula\mobile
+yarn add axios
+exit
+C:\Users\Administrador.DESKTOP-M5BCQ6H\Desktop\nlw-03\aula\mobile
+echo "# orphanage-react-native-nlw3 aplicação mobile usando REACTNative e Expo para \n visitas em orfanatos na região de Campo Grande MS aula da NLW3" >> README.md
+git init
+git add README.md
+git commit -m "first commit the best"
+git branch -M main
+git remote add origin https://github.com/adrianocruzweb/orphanage-react-native-nlw3.git
+git push -u origin main
+git add *
